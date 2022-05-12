@@ -50,7 +50,7 @@
    ![](assets/20220511_220959_image.png)
 
    ***
-
+Демо: https://pt.minhinprom.ru/w/iWwsueeKyiN4c76yRicwFh
    Репозитории прошивок:
 
    1. [Для Arduino](https://github.com/GYelejin/NordLightBot)
