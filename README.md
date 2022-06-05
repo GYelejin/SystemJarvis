@@ -54,5 +54,5 @@
 
    Репозитории прошивок:
 
-   1. [Для Arduino](https://github.com/GYelejin/NordLightBot)
-   2. [Для ESP8266](https://github.com/GYelejin/NordLightBotWifi)
+   1. [Для Arduino](https://github.com/GYelejin/SmartBotArduino)
+   2. [Для ESP8266](https://github.com/GYelejin/SmartBotESP8266)
